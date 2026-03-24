@@ -1,5 +1,5 @@
 {
-    "app.title": "Démo React-intl!",
+    "app.title": "Démo React-intl",
     "app.description": "Cet exemple montre comment localiser une application React avec react-intl.",
     "app.notifications": "{count, plural, =0 {Vous n'avez aucune nouvelle notification} one {Vous avez # nouvelle notification} other {Vous avez # nouvelles notifications}}",
     "app.lastLogin": "Dernière connexion : {ts, date, medium} à {ts, time, short}",
